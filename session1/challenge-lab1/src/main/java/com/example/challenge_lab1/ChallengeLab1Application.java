@@ -1,13 +1,13 @@
-package com.example.myfirstapi;
+package com.example.challenge_lab1;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MyfirstapiApplication {
+public class ChallengeLab1Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MyfirstapiApplication.class, args);
+		SpringApplication.run(ChallengeLab1Application.class, args);
 	}
 
 }
