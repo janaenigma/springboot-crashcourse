@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>myfirstapi</artifactId>
+	<artifactId>challenge-lab2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>myfirstapi</name>
-	<description>My first Sprint Boot API</description>
+	<name>challenge-lab2</name>
+	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
 		<license/>
