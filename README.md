@@ -9,8 +9,13 @@ Customizing Server & Application Properties
 ### Challenge Lab 2
 Dynamic Endpoints with Request Parameters
 ![Challenge Lab 2 Output 1](outputs/session1_lab2_01.png)
-![Challenge Lab 2 Output 1](outputs/session1_lab2_02.png)
-![Challenge Lab 2 Output 1](outputs/session1_lab2_03.png)
-![Challenge Lab 2 Output 1](outputs/session1_lab2_04.png)
-![Challenge Lab 2 Output 1](outputs/session1_lab2_05.png)
+![Challenge Lab 2 Output 2](outputs/session1_lab2_02.png)
+![Challenge Lab 2 Output 3](outputs/session1_lab2_03.png)
+![Challenge Lab 2 Output 4](outputs/session1_lab2_04.png)
+![Challenge Lab 2 Output 5](outputs/session1_lab2_05.png)
+
+### Challenge Lab 3
+Returning Dynamic JSON Responses (Maps & Lists)
+![Challenge Lab 3 Output 1](outputs/session1_lab3_01.png)
+![Challenge Lab 3 Output 3](outputs/session1_lab3_02.png)
 
