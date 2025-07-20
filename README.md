@@ -4,15 +4,13 @@ Submitted by: Baruc, Jana Enigma S.
 ## SESSION 1
 ### Challenge Lab 1
 Customizing Server & Application Properties
-![Challenge Lab 1 Output](outputs/session1_lab1.png)
+![Challenge Lab 1 Output](outputs/session1_lab1_01.png)
 
 ### Challenge Lab 2
 Dynamic Endpoints with Request Parameters
 ![Challenge Lab 2 Output 1](outputs/session1_lab2_01.png)
 ![Challenge Lab 2 Output 2](outputs/session1_lab2_02.png)
 ![Challenge Lab 2 Output 3](outputs/session1_lab2_03.png)
-![Challenge Lab 2 Output 4](outputs/session1_lab2_04.png)
-![Challenge Lab 2 Output 5](outputs/session1_lab2_05.png)
 
 ### Challenge Lab 3
 Returning Dynamic JSON Responses (Maps & Lists)
@@ -36,4 +34,17 @@ Define Your REST API Endpoints
 | Lecture Listening |POST     | /zoos/1/hospital/lectures/1/listens    |Visitor listens to a Lecture |
 | Zoo Exit      |POST     | /zoos/1/exits                          |Visitor exits the Zoo        |
 
+## SESSION 2
+### Lab 8
+Create GET All Products Endpoint
+![Lab 8](outputs/session2_lab8.png)
 
+### Lab 9
+Create GET Product by ID Endpoint
+![Lab 9 Output 1](outputs/session2_lab9_01.png)
+![Lab 9 Output 2](outputs/session2_lab9_02.png)
+
+### Lab 10
+Create POST Product Endpoint
+![Lab 10 Output 1](outputs/session2_lab10_01.png)
+![Lab 10 Output 2](outputs/session2_lab10_02.png)
